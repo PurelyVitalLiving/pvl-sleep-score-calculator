@@ -1,7 +1,7 @@
 # PVL Sleep Score Calculator
 
 A free, installable sleep assessment from Purely Vital Living that helps you understand how your daily habits may be affecting your sleep.
-
+![PVL Sleep Score Calculator](pvl-sleep-score-calculator.png)
 ## About the Calculator
 
 The PVL Sleep Score Calculator uses a short 12-question assessment to generate a personalized Sleep Score from 0 to 100.
