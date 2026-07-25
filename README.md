@@ -29,7 +29,7 @@ After completing the assessment, users receive:
 
 Use the live PVL Sleep Score Calculator:
 
-**[Start the Free Sleep Assessment]([YOUR-CALCULATOR-URL](https://purelyvitalliving.com/sleep-score-calculator/))**
+**[Start the Free Sleep Assessment](https://purelyvitalliving.com/sleep-score-calculator/)**
 
 ## About Purely Vital Living
 
